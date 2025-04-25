@@ -20,7 +20,7 @@ SmartML Blueprint is a meta-learning assistant designed to recommend machine lea
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Dawittsegaye12/machine-learning-pipeline-adviser.git>
    cd SmartML_Blueprint
    ```
 
